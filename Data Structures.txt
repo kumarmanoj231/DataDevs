@@ -1,29 +1,29 @@
 			
-			🟢🔵🟣
+🟢🔵🟣
 			
-																		🥷 Welcome, MANOJ
+																	🥷 Welcome, MANOJ
 				
-													🐧Data Structures ✔️ 
+								🐧Data Structures ✔️ 
 			
-			CODER DASHBOARD 👩‍💻
-			￣￣￣￣￣￣￣￣
-			🟩	1 January 2025												CURRENT : 
+CODER DASHBOARD 👩‍💻
+￣￣￣￣￣￣￣￣
+🟩	1 January 2025												CURRENT : 
+
 			
 			
+	📅 Jan 2025	     🪁			   📅 Feb 2025	    💓			 📅 March 2025	    💓	
 			
-			📅 Jan 2025	     🪁			   📅 Feb 2025	    💓			 📅 March 2025	    💓	
+	Mo tu we th fr sa su			Mo tu we th fr sa su			Mo tu we th fr sa su
 			
-			Mo tu we th fr sa su			Mo tu we th fr sa su			Mo tu we th fr sa su
-			
-			       1  2  3  4  5  					1  2 					1  2
-			6  7  8  9  10 11 12 			 3  4  5  6  7  8  9 			 3  4  5  6  7  8  9
-			13 14 15 16 17 18 19 			10 11 12 13 14 15 16			10 11 12 13 14 15 16
-			20 21 22 23 24 25 26 			17 18 19 20 21 22 23			17 18 19 20 21 22 23
-			27 28 29 30 31				24 25 26 27 28	    			24 25 26 27 28 29 30
+	       1  2  3  4  5  					1  2 					1  2
+	6  7  8  9  10 11 12 			 3  4  5  6  7  8  9 			 3  4  5  6  7  8  9
+	13 14 15 16 17 18 19 			10 11 12 13 14 15 16			10 11 12 13 14 15 16
+	20 21 22 23 24 25 26 			17 18 19 20 21 22 23			17 18 19 20 21 22 23
+	27 28 29 30 31				24 25 26 27 28	    			24 25 26 27 28 29 30
 													31		    
-			____________________			____________________			____________________
+	____________________			____________________			____________________
 			
-			🌟 Same day complete 			
+	🌟 Same day complete 			
 					
 									...
 			
@@ -35,122 +35,124 @@
 			🌟 Important				❗ Important topic based problems
 		
 									
-								ℹ️	INDEX
+					ℹ️	INDEX
 					 					 
-			📙 Topics														
+	📙 Topics														
 				 
-			1.	Binary Number System & Operators										
+1.	Binary Number System & Operators										
 			
-			2.	Arrays basics and Questions											
-				🙋	Largest & smallest in the array										
-				🙋	Reverse an array											
-				🙋	Swap min and max number of an array									
-				🙋	Print unique values in the array									
-				🙋	Intersection of 2 arrays										
-				🙋	Single number												
-				🙋	Maximum Subarray sum							⚡ Kadane's Algorithm		
-				🙋	Pair sum												
-				🙋	Majority Element							⚡ Moore's Algorithm		
+2.	Arrays basics and Questions											
+	🙋	Largest & smallest in the array										
+	🙋	Reverse an array											
+	🙋	Swap min and max number of an array									
+	🙋	Print unique values in the array									
+	🙋	Intersection of 2 arrays										
+	🙋	Single number												
+	🙋	Maximum Subarray sum							⚡ Kadane's Algorithm		
+	🙋	Pair sum												
+	🙋	Majority Element							⚡ Moore's Algorithm		
 			
-			3.	Time & Space Complexity												
+	3.	Time & Space Complexity											
 			
-			🔥	Practical Usage of Constraints 											
-			🙋	X^n										⚡ Binary Exponentiation	
-			🙋	Buy and sell stock 												
-			🙋	Container with most water 💦 		    					💡Tapping Rainwater *DP	    	
-			🙋	Prodct with array itself									         	
+	🔥	Practical Usage of Constraints 										
+	
+	🙋	X^n									⚡ Binary Exponentiation	
+	
+	🙋	Buy and sell stock 											
+	🙋	Container with most water 💦 		    					💡Tapping Rainwater *DP	
+	🙋	Prodct with array itself									        
 			
-			4.	Pointers 👉 													
+4.	Pointers 👉 													
 			
-			5.	⚡Binary search 🔎												
-				🙋	Search in rotated sorted array										
-				🙋	Peak index in mountain ⛰ array 							       		
-				🙋	Single element in sorted array										
+5.	⚡Binary search 🔎												
+	🙋	Search in rotated sorted array										
+	🙋	Peak index in mountain ⛰ array 							       		
+	🙋	Single element in sorted array										
 				
-				❗	Book Allocation Problem											
-				❗	Painter's Partition Problem										
-				❗	Aggressive cows 🐮 problem 										
+	❗	Book Allocation Problem											
+	❗	Painter's Partition Problem										
+	❗	Aggressive cows 🐮 problem 										
 			
-			6.	Sorting
-				🔝	Bubble, insertion, selection sort									
-				🙋	Sort arrays with 0s, 1s & 2s 						⚡Dutch National flag 		
-				🙋	Merge two sorted arrays											
-				🙋	Next permutation problem 										
+6.	Sorting
+	🔝	Bubble, insertion, selection sort									
+	🙋	Sort arrays with 0s, 1s & 2s 						⚡Dutch National flag 		
+	🙋	Merge two sorted arrays											
+	🙋	Next permutation problem 										
 				
-			7.	C++ STL
-				Containers :
-				🏷️ 	vector													
-				🏷️	List													
-				🏷️	Deque													
-				🏷️	Pair													
-				🏷️	Stack													
-				🏷️	Queue													
-				🏷️	Priority Queue												
-				🏷️	Map													
-				🏷️	Set													
+7.	C++ STL
+	Containers :
+	🏷️ 	vector													
+	🏷️	List													
+	🏷️	Deque													
+	🏷️	Pair													
+	🏷️	Stack													
+	🏷️	Queue													
+	🏷️	Priority Queue												
+	🏷️	Map													
+	🏷️	Set													
 		
-				Alogithms : 													
-				🏷️	sorting, reverse, next_permutation, swap, min, max,
-					max_element, min_element,binary_search,
+	Alogithms : 													
+	🏷️	sorting, reverse, next_permutation, swap, min, max,
+		max_element, min_element,binary_search,
 				
-			8.	Strings 
-				🔝	Character arrays											
-				🙋	Reverse a string											
-				🙋	valid palindrome											
-				🙋	Remove all occurrences											
-				🙋	Permutation in string											
-				🙋	Reverse words in string											
-				🙋	String compression											
+8.	Strings 
+	🔝	Character arrays											
+	🙋	Reverse a string											
+	🙋	valid palindrome											
+	🙋	Remove all occurrences											
+	🙋	Permutation in string											
+	🙋	Reverse words in string											
+	🙋	String compression											
 			
-			9.	Maths for DSA													
-				🙋	Sieve of Eratosthenes
-				🙋	Digits of a number
-				🙋	Amstrong number
-				🙋	GCD / HCF								⚡ Euclid's Algorithm 
-				🙋	Reverse a number
-				🙋	Palindrome number
-				🔝 	Modulo Arithmetic
-				🔝 	Fast Exponentiation
+9.	Maths for DSA													
+	🙋	Sieve of Eratosthenes
+	🙋	Digits of a number
+	🙋	Amstrong number
+	🙋	GCD / HCF								⚡ Euclid's Algorithm 		
+	🙋	Reverse a number
+	🙋	Palindrome number
+	🔝 	Modulo Arithmetic
+	🔝 	Fast Exponentiation
 			
-			10.	Hashing ♯
-				❗2 sum														
-				❗Find missing and repeating values 									 	
-				❗Find duplicate								⚡ fast and slow pointer 	
-				❗3 sum														
-				❗4 sum														
-				❗Subarray sum equals k												
+10.	Hashing ♯
+	❗2 sum														
+	❗Find missing and repeating values 									 	
+	❗Find duplicate								⚡ fast and slow pointer 	
+	❗3 sum														
+	❗4 sum														
+	❗Subarray sum equals k												
 			
-			11.	Recursion 🔁													
-				🔝	Call stack 												
-				🔝	2 ways to calculate time complexity									
-				🙋	N factorial												
-				🙋	Sum of N nums												
-				🙋	Fibonacci												
-				🙋	Check if array is sorted ? 										
-				⚡	Recursive binary search											
+11.	Recursion 🔁													
+	🔝	Call stack 												
+	🔝	2 ways to calculate time complexity									
+	🙋	N factorial												
+	🙋	Sum of N nums												
+	🙋	Fibonacci												
+	🙋	Check if array is sorted ? 										
+	⚡	Recursive binary search											
 				
-			12.	Backtracking  🔙
-				🔝	Print all subsets											
-				🙋	Subsets													
-				🙋	Subsets II												
-				🙋	Permutations of an Array/String										
-			🌟   ❗	N - Queens Problem ♛ 							💡 N - Knights problem		
-			🌟	❗	Sudoku solver 												
-			🌟	❗	Rat in a Maze Problem 🐀 										
-			🌟	❗	Combination sum												
-			🌟	❗	Palindrome positioning											
+12.	Backtracking  🔙
+	🔝	Print all subsets											
+	🙋	Subsets													
+	🙋	Subsets II												
+	🙋	Permutations of an Array/String										
+🌟   ❗	N - Queens Problem ♛ 							💡 N - Knights problem		
+🌟	❗	Sudoku solver 												
+🌟	❗	Rat in a Maze Problem 🐀 										
+🌟	❗	Combination sum												
+🌟	❗	Palindrome positioning											
 				
-				🔝	⚡Merge Sort												
-				🔝	⚡Quick Sort												
+	🔝	⚡Merge Sort												
+	🔝	⚡Quick Sort												
 				
-				❗	Count Inversions											
-			🌟	❗ 	KNIGHTS TOUR Problem - Backtracking ♞ 								   	
+	❗	Count Inversions											
+🌟	❗ 	KNIGHTS TOUR Problem - Backtracking ♞ 								   	
 				
 				
-			13.	OOPs Tutorial in One Shot | Object Oriented 🌏 									
+13.	OOPs Tutorial in One Shot | Object Oriented 🌏 									
 			
-			14.	Introduction to Linked List	 🔗 
-				🔝	Major functions of LL											
-				🙋‍♂️	Reverse a Linked List  											
-				🙋‍♂️	Middle of a Liked List											
+14.	Introduction to Linked List	 🔗 
+	🔝	Major functions of LL											
+	🙋‍♂️	Reverse a Linked List  											
+	🙋‍♂️	Middle of a Liked List											
 				
